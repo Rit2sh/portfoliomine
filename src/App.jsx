@@ -15,9 +15,9 @@ const App = () => {
     resumeUrl: "./RESUME_RITESH (4).pdf",
     profileImage: "profile.png",
     social: {
-      linkedin: "https://linkedin.com/in/RiteshChauhan",
-      github: "https://github.com/rit2sh",
-      leetcode: "https://leetcode.com/",
+      linkedin: "https://www.linkedin.com/in/ritesh-chauhan-80801b293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      github: "https://github.com/Rit2sh",
+      Twitter: "https://x.com/RiteshChau69695?t=TavimeCTgzVqiIc01mVTCA&s=08",
     },
     about: "I am a passionate developer, innovator, and aspiring entrepreneur with strong expertise in software development, AI, cybersecurity, and fintech solutions. With hands-on experience in hackathons, startup building, and full-stack development, I focus on creating scalable products that solve real-world problems.",
     mission: [
