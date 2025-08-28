@@ -1,6 +1,6 @@
 # Ritesh Chauhan - Personal Portfolio
 
-![Portfolio Screenshot](https://i.imgur.com/your-screenshot-url.png) <!-- Replace with a URL to a screenshot of your portfolio -->
+![Portfolio Screenshot](https://portfoliomine-da8l.vercel.app/profile.png) <!-- Replace with a URL to a screenshot of your portfolio -->
 
 This is the official repository for my personal portfolio website. Built with **React** and **Tailwind CSS**, this project showcases my skills, projects, and professional experience in a modern, interactive, and fully responsive design.
 
