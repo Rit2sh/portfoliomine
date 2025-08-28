@@ -1,10 +1,11 @@
 # Ritesh Chauhan - Personal Portfolio
 
-![Portfolio Screenshot](https://portfoliomine-da8l.vercel.app/profile.png) <!-- Replace with a URL to a screenshot of your portfolio -->
+![Portfolio Screenshot](https://portfoliomine-da8l.vercel.app/profile.png) <!-- Rep<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/05532c2e-6519-43c5-8d19-425392d6dc57" />
+lace with a URL to a screenshot of your portfolio -->
 
 This is the official repository for my personal portfolio website. Built with **React** and **Tailwind CSS**, this project showcases my skills, projects, and professional experience in a modern, interactive, and fully responsive design.
 
-**Live Demo:** [your-portfolio-url.com](https://portfoliomine-da8l.vercel.app/) <!-- Replace with your live URL once deployed -->
+**Live Demo:** (https://portfoliomine-da8l.vercel.app/) <!-- Replace with your live URL once deployed -->
 
 ---
 
